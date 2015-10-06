@@ -1,1 +1,4 @@
 .npm
+
+.meteor/local
+.meteor/meteorite
