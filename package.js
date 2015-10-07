@@ -1,6 +1,6 @@
 Package.describe({
   name: 'poetic:trello',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'node-trello packaged for meteor.',
   git: 'https://github.com/poetic/meteor-trello.git',
   documentation: 'README.md'
@@ -13,5 +13,5 @@ Package.onUse(function(api) {
   api.export( 'Trello', 'server' );
 });
 
-Npm.depends({trello: '0.4.1'});
+Npm.depends({'node-trello': '1.1.2'});
 
