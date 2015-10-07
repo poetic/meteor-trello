@@ -1,6 +1,6 @@
 Package.describe({
   name: 'poetic:trello',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'node-trello packaged for meteor.',
   git: 'https://github.com/poetic/meteor-trello.git',
   documentation: 'README.md'
