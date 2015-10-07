@@ -1,1 +1,1 @@
-Trello = Npm.require("trello");
+Trello = Npm.require("node-trello");
